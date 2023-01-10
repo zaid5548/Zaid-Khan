@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setup:LocationCatalog
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:setup="http://www.eclipse.org/oomph/setup/1.0">
+  <installation>
+    <key href="file:/D:/64/Win%2064-20191212T033144Z-001/Win%2064/eclipse-jee-photon-R-win32-x86_64/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/D:/springboot_2023/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/SpringCoreWorkspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/Zaid%20Khan/OneDrive/Desktop/LeetCode_Practice_Code/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Java%20Code/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/SpringCoreTuteExample/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/Spring%20Project/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/code_Java/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <workspace>
+    <key href="file:/D:/springboot_2023/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/64/Win%2064-20191212T033144Z-001/Win%2064/eclipse-jee-photon-R-win32-x86_64/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/SpringCoreWorkspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/64/Win%2064-20191212T033144Z-001/Win%2064/eclipse-jee-photon-R-win32-x86_64/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/Zaid%20Khan/OneDrive/Desktop/LeetCode_Practice_Code/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/64/Win%2064-20191212T033144Z-001/Win%2064/eclipse-jee-photon-R-win32-x86_64/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Java%20Code/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/64/Win%2064-20191212T033144Z-001/Win%2064/eclipse-jee-photon-R-win32-x86_64/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/SpringCoreTuteExample/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/64/Win%2064-20191212T033144Z-001/Win%2064/eclipse-jee-photon-R-win32-x86_64/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/Spring%20Project/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/64/Win%2064-20191212T033144Z-001/Win%2064/eclipse-jee-photon-R-win32-x86_64/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/D:/code_Java/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/D:/64/Win%2064-20191212T033144Z-001/Win%2064/eclipse-jee-photon-R-win32-x86_64/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+</setup:LocationCatalog>

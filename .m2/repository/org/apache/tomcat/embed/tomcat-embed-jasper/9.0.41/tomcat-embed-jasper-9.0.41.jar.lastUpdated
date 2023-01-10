@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Apr 05 16:52:05 IST 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1649157725149
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.tomcat.embed\:tomcat-embed-jasper\:jar\:9.0.41 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

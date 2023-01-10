@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 22 13:19:27 IST 2021
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1619077767957
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.protobuf\:protobuf-java\:jar\:sources\:3.11.4 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

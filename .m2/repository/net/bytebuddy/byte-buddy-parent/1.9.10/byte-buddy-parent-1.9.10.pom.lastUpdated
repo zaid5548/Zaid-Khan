@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 04 12:30:25 IST 2021
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1620111625806
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact net.bytebuddy\:byte-buddy-parent\:pom\:1.9.10 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\Zaid Khan\\.m2\\repository\\net\\bytebuddy\\byte-buddy-parent\\1.9.10\\aether-34cd7f44-ebd8-40cc-8562-967a437d9c48-byte-buddy-parent-1.9.10.pom-in-progress (The system cannot find the file specified)
